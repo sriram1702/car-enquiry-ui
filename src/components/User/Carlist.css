@@ -1,0 +1,9 @@
+.cstm-height-card .card-img-top {
+    height: 100px;
+    object-fit: cover;
+    /* position: absolute; */
+    width: 100px;
+  }
+  .divbtn{
+      float: left;
+  }
